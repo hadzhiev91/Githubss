@@ -1,0 +1,5 @@
+C:\Users\pc\Desktop\New folder (7)\New folder\Githubss\HelloWOrld\bin\Debug\HelloWOrld.exe
+C:\Users\pc\Desktop\New folder (7)\New folder\Githubss\HelloWOrld\bin\Debug\HelloWOrld.pdb
+C:\Users\pc\Desktop\New folder (7)\New folder\Githubss\HelloWOrld\obj\Debug\HelloWOrld.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\New folder (7)\New folder\Githubss\HelloWOrld\obj\Debug\HelloWOrld.exe
+C:\Users\pc\Desktop\New folder (7)\New folder\Githubss\HelloWOrld\obj\Debug\HelloWOrld.pdb
