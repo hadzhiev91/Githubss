@@ -1,0 +1,5 @@
+C:\Users\pc\Desktop\New folder (7)\New folder\Githubss\Second\bin\Debug\Second.exe
+C:\Users\pc\Desktop\New folder (7)\New folder\Githubss\Second\bin\Debug\Second.pdb
+C:\Users\pc\Desktop\New folder (7)\New folder\Githubss\Second\obj\Debug\Second.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\New folder (7)\New folder\Githubss\Second\obj\Debug\Second.exe
+C:\Users\pc\Desktop\New folder (7)\New folder\Githubss\Second\obj\Debug\Second.pdb
